@@ -1,0 +1,120 @@
+
+
+#h1{ font-size: 40px;
+	font-family: 'Indie Flower', cursive;
+
+
+}
+#h2{ background-color: #dfbd9f;
+	padding:10px;
+	font-family: 'Indie Flower', cursive;
+	color: #ffffff;
+
+}
+
+																/*first div style*/
+#divh{																	
+
+	background-color: #eaeae1;
+display: flex;
+	font-weight: bold;
+	font-family: arial;
+	margin: 3px;
+	flex-wrap: wrap;
+}
+
+#span2{
+	padding-top: 50px;
+
+
+
+
+}												/*navbar*/
+
+
+#navbar{
+	background-color: #800000;
+	padding-right: 100px;
+	
+
+}
+
+#unlist{
+	display:flex;
+	flex-wrap: wrap;
+
+
+}
+
+
+li{
+list-style-type: none;
+padding-right: 50px;
+
+
+}
+a{
+	text-decoration: none;
+	color:#ffffff;
+	font-family: 
+		font-family: 'Indie Flower', cursive;
+}
+
+
+																									/*div for second section*/
+
+
+
+#pictop{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+#picdown div{
+	width: 405px;
+}
+
+#img1{width: 400px;
+	height: 400px;
+
+}
+
+
+																											/*div for second section*/
+
+#picdown{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	
+}
+
+
+
+p{font-family: 'Indie Flower', cursive;
+
+}
+
+
+
+																				/*footer*/
+
+
+#hrline{
+	width: 800px;
+	height: 3px;
+	background-color: gray;
+
+}
+
+
+
+#footerdiv{
+	text-align: center;
+}
+
+#footerlogo{
+	width: 250px;
+	height: 100px;
+}
